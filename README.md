@@ -1,2 +1,2 @@
 # ROBLOX-UNIVERSAL-FLING-SCRIPT
-So... just fling people i guess?
+So... just fling people i guess? Requires a decent executor due to its features, sorry...
