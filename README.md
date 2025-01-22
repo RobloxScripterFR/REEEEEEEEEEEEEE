@@ -1,2 +1,3 @@
 # ROBLOX-UNIVERSAL-FLING-SCRIPT
 So... just fling people i guess? Requires a decent executor due to its features, sorry...
+(Remember, exploiting can get you banned! Use an alt!)
